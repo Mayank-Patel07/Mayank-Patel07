@@ -1,3 +1,11 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Mayank Patel and I am from Sagar , Madhya Pradesh , BHARAT</p>
+<p align="left">B-Tech (Mechanical Engineer) Graduat from Rajiv Gandhi Proudyogiki Vishwavidyalaya University </p>
+
+###
 # 💫 About Me:
 I am MERN Stack Developer with a solid educational<br>foundation in B.Tech and a strong proficiency in a<br>variety of web development technologies. I thrive on<br>creating responsive and user-friendly web<br>applications that not only look great but also function<br>seamlessly , and also has some knowledge of React<br>Native (Android development)
 
