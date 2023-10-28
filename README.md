@@ -20,6 +20,14 @@ I am MERN Stack Developer with a solid educational<br>foundation in B.Tech and a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Patel07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Patel07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
