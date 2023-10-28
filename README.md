@@ -6,7 +6,7 @@
 </div>
 
 <p align="left">My name is Mayank Patel and I am from Sagar , Madhya Pradesh , BHARAT</p>
-<p align="left">B-Tech (Mechanical Engineer) Graduat from Rajiv Gandhi Proudyogiki Vishwavidyalaya University </p>
+<p align="left">B-Tech (Mechanical Engineer) Graduate from Rajiv Gandhi Proudyogiki Vishwavidyalaya University </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-patel07&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-patel07" /> </p>
 
@@ -16,11 +16,11 @@
 
 - 💬 Ask me about **MERN Stack,Front-End and Back-End Development **
 
-- 📫 How to reach me **mahindp1111@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+- 📫 How to reach me **mahindp1111@gmail.com**
 
 ###
 # 💫 About Me:
